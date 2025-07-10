@@ -6,8 +6,15 @@ Git config --global user.name “my name”
 Git config --global user.email someone@gmail.com  rbalochsara42@gmail.com
 Git config –list
 
+
+
+
+
+
 Global configuration
 Local configuration   spasific project in a saparater account login
+
+
 
 Clone & Status
 Clone- Cloning a repository on our local maction
@@ -18,6 +25,11 @@ Git clone <- project  link->
 
 Status – displays the state of the code 
 Git status
+
+
+
+
+
 
 It gives you a summary of the current state of your repository, helping you track changes, staged files, and untracked files. Here’s what it does in detail:
 
@@ -65,6 +77,8 @@ for this purpose we use
 Push Command
 Push – upload local repo content to remote repo
 
+
+
 Command
   Git push origin main
 Now enter if try 1st time with vs code then vs code ask us a permition
@@ -98,6 +112,8 @@ In vs code terminal or cmd
 •	create a file in which code (vs code show U) untrack file)
 •	git status (untrack file)
 •	git add  .
+
+
 •	git status (show new file : file name(it’s a file which you create) 
 •	git commit -m “Add initial file” (for commit in local system)
 •	this project or repo is now in our local system but now we want to upload o repo or project in gighub
